@@ -1,0 +1,4 @@
+#!/bin/bush
+
+echo hoge
+
